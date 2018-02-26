@@ -27,6 +27,7 @@ Depends: ${python3:Depends}, ${misc:Depends},
   cmdtest,
   debootstrap,
   parted,
+  qemu-utils,
   kpartx
 Recommends: ansible
 Description: creator of disk images with Debian installed
